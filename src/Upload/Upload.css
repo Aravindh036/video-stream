@@ -1,0 +1,15 @@
+.uploadDiv{
+    height: 100vh;
+    background-color: gainsboro;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.uploadDiv button{
+    border: 0;
+    padding: 10px 20px;
+    background-color: gray;
+    border-radius: 3px;
+    color: white;
+}

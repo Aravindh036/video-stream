@@ -1,0 +1,18 @@
+.homeDiv{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: linear-gradient(to bottom right, rgb(209, 61, 61), rgb(112, 112, 68));
+}
+
+.homeDiv button{
+    border: 0;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+.homeDiv .Link{
+text-decoration: none;
+color: black;
+}
